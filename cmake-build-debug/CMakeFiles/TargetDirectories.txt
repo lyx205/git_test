@@ -1,0 +1,3 @@
+F:/LYX/CLionProjects/git-test/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/LYX/CLionProjects/git-test/cmake-build-debug/CMakeFiles/git_test.dir
+F:/LYX/CLionProjects/git-test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
