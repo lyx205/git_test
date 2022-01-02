@@ -8,5 +8,6 @@ int main() {
     std::cout << "master test!" << std::endl;
     std::cout << "hot-fix test!" << std::endl;
     std::cout << "SSH test!" << std::endl;
+    std::cout << "pull test!" << std::endl;
     return 0;
 }
